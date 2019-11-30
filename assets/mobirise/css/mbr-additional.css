@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1293,20 +1293,20 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-rFGPbJx3BW {
+.cid-rJgQpbWlR6 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #232323;
 }
-.cid-rFGPbJx3BW P {
+.cid-rJgQpbWlR6 P {
   color: #767676;
 }
-.cid-rFGPbJx3BW H3 {
+.cid-rJgQpbWlR6 H1 {
   color: #ffffff;
 }
 .cid-rFdSLO90Wr {
-  padding-top: 45px;
-  padding-bottom: 30px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-rFdSLO90Wr .mbr-section-subtitle {
@@ -1342,10 +1342,10 @@ section.lazy-placeholder:after {
   font-size: 17px;
 }
 .cid-rFdSLO90Wr .team-item .item-caption {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-rFe0PG5dT8 {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
@@ -1411,7 +1411,4 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
-}
-.cid-rFe0PG5dT8 P {
-  text-align: left;
 }
